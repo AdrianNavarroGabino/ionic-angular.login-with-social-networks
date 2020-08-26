@@ -1,0 +1,7 @@
+{
+  "name": "LoginWeb",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
